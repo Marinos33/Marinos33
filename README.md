@@ -2,10 +2,9 @@
 
 ### Hello World
 
-I'm just a passionate developer who likes to create projects to solve daily life problems and then make my work available to everyone. Long live the open-source.
+I am a passionate developer who enjoys creating projects that solve everyday problems and making my work accessible to everyone. Long live the open-source!
 
-I like to create all kinds of program: desktop app, mobile app, website, ... 
-I'm trying to always do my projects in a different way (other techno, different architecture, etc), this way I always learn new things.
+I like to develop all kinds of software, including desktop apps, mobile apps, websites and so on. I always try to approach my projects in a unique way, utilizing different technologies and architectures to constantly learn and grow.
 
-Feel free to have a look at my public repositories and tell me what you think. 
+Feel free to browse through my public repositories and share your thoughts.
 
