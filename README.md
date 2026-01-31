@@ -15,6 +15,8 @@ Hello World<br><br>I am a passionate developer who enjoys creating projects that
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Marinos33&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6703bf27fb4be684db349d9e?variant=dark&roadmaps=software-architect%2Csoftware-design-architecture%2Cbackend%2Ckubernetes)](https://roadmap.sh)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Marinos33&icon=0&color=1)](https://visitcount.itsvg.in)
 
